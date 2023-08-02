@@ -76,33 +76,33 @@ function generateMarkdown(data) {
 
   [Questions](#Questions)
 
-  ## Description <a name="Description"></a>
+  ## Description <a id="Description"></a>
 
   ${data.description}
 
-  ## Installation <a name="Installation"></a>
+  ## Installation <a id="Installation"></a>
 
   ${data.install}
 
-  ## Usage <a name="Usage"></a>
+  ## Usage <a id="Usage"></a>
 
   ${data.usage}
 
-  ## Contribution <a name="Contribution"></a>
+  ## Contribution <a id="Contribution"></a>
 
   ${data.contribution}
 
-  ## Tests  <a name="Tests"></a>
+  ## Tests  <a id="Tests"></a>
 
   ${data.test}
 
-  ## License <a name="License"></a>
+  ## License <a id="License"></a>
 
   ${renderLicenseLink(data.license)}
 
-  ## Questions <a name="Questions"></a>
+  ## Questions <a id="Questions"></a>
 
-  I am on github at [${data.username}](https:https://github.com/${data.username})
+  I am on github at [${data.username}](https://github.com/${data.username})
 
   Or my email is ${data.email}
  
