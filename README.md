@@ -48,4 +48,6 @@
   Or my email is barronpeterson56@gmail.com
  
 
-  
+  ## References
+
+  I referenced this [stackoverflow](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents/33433098#introduction) article to help with the markdown links. 
