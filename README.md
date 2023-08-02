@@ -47,7 +47,7 @@
 
   Or my email is barronpeterson56@gmail.com
 
-  ## [Walkthrough video] (https://drive.google.com/file/d/1oNYk55B2LbdDGy5ZwK8XaT4_trOVdNs1/view)
+  ## [Walkthrough video](https://drive.google.com/file/d/1oNYk55B2LbdDGy5ZwK8XaT4_trOVdNs1/view)
 
   ## References
 
